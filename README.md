@@ -1,14 +1,16 @@
 # BinaryTreeExtension
 
 
-#What is this?
+# What is this?
+
 This is .NET extension methods build as .NET library. Extend help you build binary tree and flatten binary tree.
 
-#How do I use it?
+# How do I use it?
+
 Install BinaryTreeExtension 
 Add using using BinaryTreeExtension;
 
-#Example
+# Example
 
 ```csharp
 class Program
@@ -86,5 +88,5 @@ class Program
         }
     }
 ```
-#License
+# License
 Licensed under the MIT License.
