@@ -7,8 +7,9 @@ This is .NET extension methods build as .NET library. Extend help you build bina
 
 # How do I use it?
 
-Install BinaryTreeExtension 
-Add "using BinaryTree.Extension";
+Install BinaryTreeExtension ;
+Add "using BinaryTree.Extension" if using .NET Framework (4.5 or higher);
+Add "using BinaryTree.Extension.Core" if using .NET Core (1.0 or higher);
 
 # Example
 
