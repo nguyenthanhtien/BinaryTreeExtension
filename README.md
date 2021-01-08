@@ -3,7 +3,7 @@
 
 # What is this?
 
-This is .NET extension methods build as .NET library. Extend help you build binary tree and flatten binary tree.
+This is .NET extension methods build as .NET library. Extension help you build binary tree and flatten binary tree.
 
 # How do I use it?
 
